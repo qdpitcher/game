@@ -14,7 +14,6 @@ from random import randint
 from sys import exit
 
 # So Pokemon will be dictionaries that store all relevant information
-# in keys
 
 charizarddict = {'name': 'Charizard',
              'health': 220,
